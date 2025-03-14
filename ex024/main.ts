@@ -23,3 +23,5 @@ const dadosCliente: DadosCliente = {
     email: 'mario-andrade@yahoo.com',
     cpf: 12345678987,
 }
+
+console.log(dadosCliente)
